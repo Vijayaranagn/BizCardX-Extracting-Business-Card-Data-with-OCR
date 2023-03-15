@@ -43,3 +43,13 @@ Good documentation and code organization will also be important for this project
 6. Implement user management functionalities such as account creation, login, and view saved business cards.
 7. Add search and filtering capabilities to the program.
 8. Test the program thoroughly and deploy it to a web server.
+
+Tools and Technologies:
+
+1. Python
+2. Streamlit
+3. OCR technology (e.g. Tesseract OCR)
+4. SQL database (e.g. SQLite)
+5. Data extraction libraries (e.g. OpenCV, Pytesseract)
+6. Data analysis libraries (e.g. Pandas)
+
